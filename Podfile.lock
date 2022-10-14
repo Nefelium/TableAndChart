@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - Moya (~> 15.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - Moya
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: 011a79973bdc1b2c3e857a04e61c55b04ace21a9
+
+COCOAPODS: 1.11.3
